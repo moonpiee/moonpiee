@@ -14,7 +14,7 @@ I am a passionate learner, driven by a curiosity for technology and a love for w
 
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,py,numpy,pandas,langchain,streamlit,git,mysql,html,css,c,cpp,arduino,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,py,git,mysql,html,css,c,cpp,arduino,vscode,gitlab,tensorflow,js,julia)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
