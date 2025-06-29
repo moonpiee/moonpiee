@@ -1,53 +1,75 @@
+<!-- This new README is designed to be minimal, professional, and targeted directly at AI/ML focus area.
+-->
+
 # Hi, I'm Moonpie! 👋
 
-I am a passionate learner, driven by a curiosity for technology and a love for writing. My journey involves delving into the world of data science, psychology exploring new ideas, and sharing my insights with the community.
+### AI/ML Engineer | Generative AI & LLMs
 
-![moonpiee's Stats](https://github-readme-stats.vercel.app/api?username=moonpiee&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+I'm an engineer focused on designing and building end-to-end AI solutions. I love to build RAG pipelines, multi-agent systems, and data automation workflows that solve real business problems.
 
-## 🚀 About Me
+<p align="left">
+  <a href="https://medium.com/@theipocmwanderer" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/128/2504/2504925.png" alt="Medium Blog" width="50" height="50" />
+  </a>
+  <a href="https://x.com/cosmosco_wand" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" />
+  </a>
+  <a href="https://share.streamlit.io/user/moonpiee" target="_blank">
+    <img src="https://raw.githubusercontent.com/rlew631/rlew631/5fcb1cee69c8034bfa2b98aad94b584fcff8d84f/streamlit_red.svg" alt="Streamlit" width="50" height="50" />
+  </a>
+</p>
 
-- 🔭 I'm currently working in tech.
-- 📝 I write in-depth articles on my website [Moonpie](https://medium.com/@theipocmwanderer), accumulating over 551 followers within just 6 months.
+---
 
-## My Articles
-- [Guide To Take Right Decisions With Decision Trees](https://medium.com/dark-pen/guide-to-take-right-decisions-with-decision-trees-a2eac7071ef2)
+### 🛠️ My Tech Stack
 
+My toolbox is focused on building robust and scalable AI applications from prototype to deployment.
 
-## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,py,git,mysql,html,css,c,cpp,arduino,vscode,gitlab,tensorflow,js,julia)](https://skillicons.dev)
+<p align="left">
+  <b>AI/ML & GenAI:</b><br>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,huggingface,langchain" alt="AI/ML Skills" /><br>
+  <b>Vector DBs & RAG:</b><br>
+  <img src="https://skillicons.dev/icons?i=elasticsearch,redis,pinecone" alt="Vector DB Skills" /> <!-- NOTE: Use icons for what you've used. OpenSearch uses the 'elasticsearch' icon. FAISS/ChromaDB don't have official icons, so this is a good representation. --> <br>
+  <b>Backend & Deployment:</b><br>
+  <img src="https://skillicons.dev/icons?i=fastapi,docker,git,bash" alt="Backend & Deployment Skills" /><br>
+  <b>Cloud & Data Platforms:</b><br>
+  <img src="https://skillicons.dev/icons?i=aws,gcp,snowflake" alt="Cloud & Data Skills" />
+</p>
 
-## 🌱 Currently Exploring
+---
 
-- 🚀 Learning Full Stack Web Development
-  - Exploring the development of LLM apps and chat agents to suit user specific needs and experience.
-  - Navigating through the world of AWS.
-  - Styling with Tailwind CSS to create modern and responsive user interfaces.
-  - Building server-side applications with Django, a powerful Python web framework.
-  - Diving into PostgreSQL for efficient and scalable database management.
+![Moonpie's GitHub stats](https://github-readme-stats.vercel.app/api?username=moonpiee&theme=transparent&show_icons=true&hide_border=true&count_private=true)
 
- ## 🏆 Achievements
+---
 
-- 🌟 Completed Hacktoberfest 2023 - Contributed to open source projects and celebrated the spirit of collaboration.
+### 🏆 Project Spotlight: Featured by Streamlit
 
+I was thrilled to have my GenAI project, **Study Pal**, recognized and featured by the official [Streamlit](https://x.com/streamlit) team on X. 
+Direct embeds aren't supported in GitHub READMEs, so here is a linked image of the post.
 
-## 📬 Get in Touch
+<a href="https://x.com/streamlit/status/1858986125269872879" target="_blank">
+  <img src="https://pbs.twimg.com/card_img/1938607925813243904/z6nwSqWS?format=jpg&name=900x900" alt="Streamlit featuring Study Pal on X/Twitter" width="600px"/>
+</a>
 
-- Connect with me on [Twitter](https://x.com/cosmosco_wand)
-- Read more of my articles on [Moonpie](https://medium.com/@theipocmwanderer)
+---
 
-Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
+### 🚀 Current Projects
 
+These are the current projects I'm working on.
 
-<!--
+| Project | Description | Technologies |
+| :--- | :--- | :--- |
+| 🤖 **Autonomous Research Agent** | A multi-agent system that autonomously researches a topic, synthesizes information, and writes a detailed report. | `CrewAI`, `LangGraph`, `Llama 3`, `Groq` |
+| 💻 **Full-Stack Codebase Navigator** | An end-to-end RAG application to "chat with a GitHub repo" and understand complex codebases using natural language. | `LangChain`, `FAISS`, `FastAPI`, `Docker` |
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Beyond the Code
+
+When I'm not building AI, you can find me:
+- Writing poetry and thinking about life.
+- Nurturing my collection of houseplants.
+- Exploring new ideas and sharing them on my [Medium blog](https://medium.com/@theipocmwanderer).
+
+<br>
+
