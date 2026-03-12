@@ -11,9 +11,6 @@ I'm an engineer focused on designing and building end-to-end AI solutions. I lov
   <a href="https://medium.com/@theipocmwanderer" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/128/2504/2504925.png" alt="Medium Blog" width="50" height="50" />
   </a>
-  <a href="https://x.com/cosmosco_wand" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" />
-  </a>
   <a href="https://share.streamlit.io/user/moonpiee" target="_blank">
     <img src="https://raw.githubusercontent.com/rlew631/rlew631/5fcb1cee69c8034bfa2b98aad94b584fcff8d84f/streamlit_red.svg" alt="Streamlit" width="50" height="50" />
   </a>
