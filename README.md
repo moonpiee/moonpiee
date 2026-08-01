@@ -1,7 +1,7 @@
 <!-- This new README is designed to be minimal, professional, and targeted directly at AI/ML focus area.
 -->
 
-# Hi, I'm Moonpie! 👋
+# Hi, I'm Chandana! 👋
 
 ### AI/ML Engineer | Generative AI & LLMs
 
